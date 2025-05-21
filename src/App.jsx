@@ -4,7 +4,7 @@ import { Suspense } from 'react';
 import React from 'react';
 import Loading from './components/Loading';
 import User from './pages/User';
-import Guest from './pages/Guest';
+// import Guest from './pages/Guest';
 
 const Dashboard = React.lazy(() => import("./pages/Dashboard"));
 const Orders = React.lazy(() => import('./pages/Orders'));
@@ -18,6 +18,7 @@ const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
 const Login = React.lazy(() => import("./pages/auth/Login"));
 const Register = React.lazy(() => import("./pages/auth/Register"));
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
+const Guest = React.lazy(() => import("./pages/Guest"));
 
 function App() {
   return (
