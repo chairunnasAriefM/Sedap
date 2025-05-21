@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Tofu Bao",
+        "image": "https://daaitv.co.id/DAAI-WP/wp-content/uploads/2022/03/Ilustrasi-Stinky-Tofu-by-Canva-Pro.jpg",
+        "price": "250",
+        "description": "crispy, fried tofu bites mixed in a spicy, topped Sausage"
+    },
+    {
+        "id": "2",
+        "name": "Tacos De alambre",
+        "image": "https://www.vvsupremo.com/wp-content/uploads/2018/08/Alambre-Steak-Tacos.jpg",
+        "price": "300",
+        "description": "chicken cooked with bacon, topped with Oaxaca cheese"
+    },
+    {
+        "id": "3",
+        "name": "Soto",
+        "image": "https://www.maggi.id/sites/default/files/styles/home_stage_944_531/public/srh_recipes/1d433617305f7c0ff167e223d6027eba.jpg?h=4f5b30f1&itok=ONMvVqDi",
+        "price": "500   ",
+        "description": "Traditional Indonesian soup composed of broth, meat, and vegetables."
+    },
+    {
+        "id": "3",
+        "name": "Og Kush",
+        "image": "https://canaturawholesalecom.s58.cdn-upgates.com/_cache/8/6/86f237e0d43def859e5bd8f69de338db-q66b1493a5f425-og-kush-1.jpg",
+        "price": "1000",
+        "description": "Plant"
+    }
+]

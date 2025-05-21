@@ -1,0 +1,426 @@
+{
+  "customers": [
+    {
+      "customerId": "C1001",
+      "customerName": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "082806766516",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1002",
+      "customerName": "Brian Smith",
+      "email": "brian.smith@example.com",
+      "phone": "082072278065",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1003",
+      "customerName": "Carla Tan",
+      "email": "carla.tan@example.com",
+      "phone": "086851782065",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1004",
+      "customerName": "Daniel Lee",
+      "email": "daniel.lee@example.com",
+      "phone": "088065189255",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1005",
+      "customerName": "Eva Green",
+      "email": "eva.green@example.com",
+      "phone": "081574225755",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1006",
+      "customerName": "Fahri Aziz",
+      "email": "fahri.aziz@example.com",
+      "phone": "082658405255",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1007",
+      "customerName": "Gita Putri",
+      "email": "gita.putri@example.com",
+      "phone": "083328815918",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1008",
+      "customerName": "Hendra Saputra",
+      "email": "hendra.saputra@example.com",
+      "phone": "088214147401",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1009",
+      "customerName": "Ira Kurnia",
+      "email": "ira.kurnia@example.com",
+      "phone": "085526816544",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1010",
+      "customerName": "Joko Santoso",
+      "email": "joko.santoso@example.com",
+      "phone": "088702108973",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1011",
+      "customerName": "Kevin Hartono",
+      "email": "kevin.hartono@example.com",
+      "phone": "081300069252",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1012",
+      "customerName": "Linda Marbun",
+      "email": "linda.marbun@example.com",
+      "phone": "084485513501",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1013",
+      "customerName": "Maya Anjani",
+      "email": "maya.anjani@example.com",
+      "phone": "083134815825",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1014",
+      "customerName": "Nina Septiani",
+      "email": "nina.septiani@example.com",
+      "phone": "086571883407",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1015",
+      "customerName": "Oscar Darmawan",
+      "email": "oscar.darmawan@example.com",
+      "phone": "086684961640",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1016",
+      "customerName": "Putri Melati",
+      "email": "putri.melati@example.com",
+      "phone": "087874503452",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1017",
+      "customerName": "Qori Azzahra",
+      "email": "qori.azzahra@example.com",
+      "phone": "089537171718",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1018",
+      "customerName": "Rizky Maulana",
+      "email": "rizky.maulana@example.com",
+      "phone": "084104989447",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1019",
+      "customerName": "Santi Wulandari",
+      "email": "santi.wulandari@example.com",
+      "phone": "083005246931",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1020",
+      "customerName": "Teguh Prasetyo",
+      "email": "teguh.prasetyo@example.com",
+      "phone": "085393464882",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1021",
+      "customerName": "Umar Alfaruq",
+      "email": "umar.alfaruq@example.com",
+      "phone": "089143621229",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1022",
+      "customerName": "Vina Lestari",
+      "email": "vina.lestari@example.com",
+      "phone": "083212172411",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1023",
+      "customerName": "Wawan Gunawan",
+      "email": "wawan.gunawan@example.com",
+      "phone": "085914180140",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1024",
+      "customerName": "Xena Oktavia",
+      "email": "xena.oktavia@example.com",
+      "phone": "085239218659",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1025",
+      "customerName": "Yoga Prabowo",
+      "email": "yoga.prabowo@example.com",
+      "phone": "083871868468",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C1026",
+      "customerName": "Zahra Amalia",
+      "email": "zahra.amalia@example.com",
+      "phone": "081260722883",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1027",
+      "customerName": "Andre Setiawan",
+      "email": "andre.setiawan@example.com",
+      "phone": "086012909384",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1028",
+      "customerName": "Bella Kristanti",
+      "email": "bella.kristanti@example.com",
+      "phone": "083798508264",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C1029",
+      "customerName": "Citra Ramadhani",
+      "email": "citra.ramadhani@example.com",
+      "phone": "081032190266",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C1030",
+      "customerName": "Dedi Susanto",
+      "email": "dedi.susanto@example.com",
+      "phone": "085876805165",
+      "loyalty": "Bronze"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "O2001",
+      "customerName": "Alice Johnson",
+      "status": "Completed",
+      "totalPrice": 124821,
+      "orderDate": "2025-04-05"
+    },
+    {
+      "orderId": "O2002",
+      "customerName": "Brian Smith",
+      "status": "Completed",
+      "totalPrice": 477229,
+      "orderDate": "2025-04-12"
+    },
+    {
+      "orderId": "O2003",
+      "customerName": "Carla Tan",
+      "status": "Cancelled",
+      "totalPrice": 329440,
+      "orderDate": "2025-04-20"
+    },
+    {
+      "orderId": "O2004",
+      "customerName": "Daniel Lee",
+      "status": "Cancelled",
+      "totalPrice": 266059,
+      "orderDate": "2025-04-03"
+    },
+    {
+      "orderId": "O2005",
+      "customerName": "Eva Green",
+      "status": "Pending",
+      "totalPrice": 108245,
+      "orderDate": "2025-04-11"
+    },
+    {
+      "orderId": "O2006",
+      "customerName": "Fahri Aziz",
+      "status": "Completed",
+      "totalPrice": 578546,
+      "orderDate": "2025-04-08"
+    },
+    {
+      "orderId": "O2007",
+      "customerName": "Gita Putri",
+      "status": "Cancelled",
+      "totalPrice": 265346,
+      "orderDate": "2025-04-14"
+    },
+    {
+      "orderId": "O2008",
+      "customerName": "Hendra Saputra",
+      "status": "Cancelled",
+      "totalPrice": 322483,
+      "orderDate": "2025-04-13"
+    },
+    {
+      "orderId": "O2009",
+      "customerName": "Ira Kurnia",
+      "status": "Cancelled",
+      "totalPrice": 169509,
+      "orderDate": "2025-04-20"
+    },
+    {
+      "orderId": "O2010",
+      "customerName": "Joko Santoso",
+      "status": "Pending",
+      "totalPrice": 257342,
+      "orderDate": "2025-04-21"
+    },
+    {
+      "orderId": "O2011",
+      "customerName": "Kevin Hartono",
+      "status": "Cancelled",
+      "totalPrice": 427583,
+      "orderDate": "2025-04-26"
+    },
+    {
+      "orderId": "O2012",
+      "customerName": "Linda Marbun",
+      "status": "Completed",
+      "totalPrice": 478919,
+      "orderDate": "2025-04-14"
+    },
+    {
+      "orderId": "O2013",
+      "customerName": "Maya Anjani",
+      "status": "Cancelled",
+      "totalPrice": 132512,
+      "orderDate": "2025-04-07"
+    },
+    {
+      "orderId": "O2014",
+      "customerName": "Nina Septiani",
+      "status": "Completed",
+      "totalPrice": 378663,
+      "orderDate": "2025-04-13"
+    },
+    {
+      "orderId": "O2015",
+      "customerName": "Oscar Darmawan",
+      "status": "Completed",
+      "totalPrice": 316954,
+      "orderDate": "2025-04-25"
+    },
+    {
+      "orderId": "O2016",
+      "customerName": "Putri Melati",
+      "status": "Pending",
+      "totalPrice": 141746,
+      "orderDate": "2025-04-26"
+    },
+    {
+      "orderId": "O2017",
+      "customerName": "Qori Azzahra",
+      "status": "Completed",
+      "totalPrice": 326646,
+      "orderDate": "2025-04-11"
+    },
+    {
+      "orderId": "O2018",
+      "customerName": "Rizky Maulana",
+      "status": "Cancelled",
+      "totalPrice": 202072,
+      "orderDate": "2025-04-19"
+    },
+    {
+      "orderId": "O2019",
+      "customerName": "Santi Wulandari",
+      "status": "Completed",
+      "totalPrice": 200743,
+      "orderDate": "2025-04-27"
+    },
+    {
+      "orderId": "O2020",
+      "customerName": "Teguh Prasetyo",
+      "status": "Pending",
+      "totalPrice": 512082,
+      "orderDate": "2025-04-19"
+    },
+    {
+      "orderId": "O2021",
+      "customerName": "Umar Alfaruq",
+      "status": "Pending",
+      "totalPrice": 149046,
+      "orderDate": "2025-04-29"
+    },
+    {
+      "orderId": "O2022",
+      "customerName": "Vina Lestari",
+      "status": "Cancelled",
+      "totalPrice": 197161,
+      "orderDate": "2025-04-17"
+    },
+    {
+      "orderId": "O2023",
+      "customerName": "Wawan Gunawan",
+      "status": "Pending",
+      "totalPrice": 224209,
+      "orderDate": "2025-04-09"
+    },
+    {
+      "orderId": "O2024",
+      "customerName": "Xena Oktavia",
+      "status": "Cancelled",
+      "totalPrice": 305847,
+      "orderDate": "2025-04-11"
+    },
+    {
+      "orderId": "O2025",
+      "customerName": "Yoga Prabowo",
+      "status": "Completed",
+      "totalPrice": 261056,
+      "orderDate": "2025-04-12"
+    },
+    {
+      "orderId": "O2026",
+      "customerName": "Zahra Amalia",
+      "status": "Cancelled",
+      "totalPrice": 107554,
+      "orderDate": "2025-04-03"
+    },
+    {
+      "orderId": "O2027",
+      "customerName": "Andre Setiawan",
+      "status": "Completed",
+      "totalPrice": 559760,
+      "orderDate": "2025-04-11"
+    },
+    {
+      "orderId": "O2028",
+      "customerName": "Bella Kristanti",
+      "status": "Pending",
+      "totalPrice": 502516,
+      "orderDate": "2025-04-03"
+    },
+    {
+      "orderId": "O2029",
+      "customerName": "Citra Ramadhani",
+      "status": "Cancelled",
+      "totalPrice": 344748,
+      "orderDate": "2025-04-25"
+    },
+    {
+      "orderId": "O2030",
+      "customerName": "Dedi Susanto",
+      "status": "Pending",
+      "totalPrice": 474069,
+      "orderDate": "2025-04-03"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": 1,
+    "nama": "Aditia",
+    "email": "aditia@example.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": 2,
+    "nama": "Bella",
+    "email": "bella@example.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": 3,
+    "nama": "Candra",
+    "email": "candra@example.com",
+    "tipe_member": "platinum"
+  },
+  {
+    "member_id": 4,
+    "nama": "Dewi",
+    "email": "dewi@example.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": 5,
+    "nama": "Eko",
+    "email": "eko@example.com",
+    "tipe_member": "gold"
+  }
+]
